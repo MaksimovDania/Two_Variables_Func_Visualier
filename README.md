@@ -9,6 +9,7 @@ of normalization.
 - Rotate the camera (viewpoint) relative to the coordinate axes (x, y, z).
 
 The program has a graphical interface containing:
+
 ● A button for selecting a file (FileDialog) and a field for displaying its name.
 
 ● Visualization zone.
