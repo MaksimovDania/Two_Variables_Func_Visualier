@@ -10,6 +10,10 @@ of normalization.
 
 The program has a graphical interface containing:
 ● A button for selecting a file (FileDialog) and a field for displaying its name.
+
 ● Visualization zone.
+
 ● Fields for entering the step between adjacent points and the normalization range.
+
 ● Control elements for moving and rotating the camera along three axes.
+
